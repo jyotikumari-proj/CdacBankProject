@@ -1,0 +1,7 @@
+com\cdacproject\dao\XRepository.class
+com\cdacproject\model\Address.class
+com\cdacproject\model\User.class
+com\cdacproject\controller\Controller.class
+com\cdacproject\BankApplication.class
+com\cdacproject\service\ServiceLayer.class
+com\cdacproject\model\UserStatus.class
